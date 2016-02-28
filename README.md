@@ -1,5 +1,7 @@
 # Brian's Brain cells automate
 
+Programing with C on DevCpp
+
 ## Rules:
 
 * Each cell has three possible states: passive, active, and semi-active.
