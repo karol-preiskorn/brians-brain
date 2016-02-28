@@ -1,4 +1,4 @@
-# Brian's Brain
+# Brian's Brain cells automate
 
 ## Rules:
 
